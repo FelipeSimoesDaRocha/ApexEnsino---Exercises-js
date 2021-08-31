@@ -8,14 +8,15 @@
     font-family: 'Bebas Neue', cursive;
 }
 body{
-    background:linear-gradient(to right,rgb(230, 135, 135), rgb(77, 172, 54));
+    background:linear-gradient(to right,rgb(1, 12, 22), rgb(27, 5, 148));
     align-items: center;
     justify-content: center;
     min-height: 100vh;
 }
 
 
-header,form,.container{
+  
+    header,form,.container{ 
     font-size: 1.5rem;
     min-height: 20vh;
     display: flex;
